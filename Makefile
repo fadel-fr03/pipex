@@ -1,15 +1,3 @@
-# **************************************************************************** #
-#                                                                              #
-#                                                         :::      ::::::::    #
-#    Makefile                                           :+:      :+:    :+:    #
-#                                                     +:+ +:+         +:+      #
-#    By: fal-frou <fadelfr61@gmail.com>             +#+  +:+       +#+         #
-#                                                 +#+#+#+#+#+   +#+            #
-#    Created: 2024/07/21 16:47:51 by fal-frou          #+#    #+#              #
-#    Updated: 2024/08/22 18:23:37 by fal-frou         ###   ########.fr        #
-#                                                                              #
-# **************************************************************************** #
-
 # Source Files
 SRC     =	src/exec_utils.c src/pipex.c src/utils.c
 B_SRC   =	src_bonus/exec_utils.c src_bonus/handle_errors.c src_bonus/here_doc.c \
